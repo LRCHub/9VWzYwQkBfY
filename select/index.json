@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "時の歌(歌集バージョン)",
+  "base_artist": "手嶌 葵",
+  "createdAt": "2026-03-14T05:14:29.132566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "時の歌 - 歌集バージョン",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/01_時の歌_-_歌集バージョン_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "時の歌 - 歌集バージョン",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/02_時の歌_-_歌集バージョン_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "時の歌（歌集バージョン）",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/03_時の歌(歌集バージョン)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "時の歌（歌集バージョン）",
+      "artist": "Teshima, Aoi",
+      "has_synced": true,
+      "path": "select/04_時の歌(歌集バージョン)_Teshima,_Aoi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "時の歌 (歌集バージョン)",
+      "artist": "手嶌 葵",
+      "has_synced": false,
+      "path": "select/pl_01_時の歌_(歌集バージョン)_手嶌_葵.txt"
+    }
+  ]
+}
